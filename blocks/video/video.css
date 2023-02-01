@@ -1,0 +1,9 @@
+@import url(./video__iframe/video__iframe.css);
+@import url(./video__iframes/video__iframes.css);
+
+.video {
+  padding: 0;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
